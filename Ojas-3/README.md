@@ -2,6 +2,7 @@
 - I'm a future Programmer.
 - I'm 19 years old.
 - I'm currently learning everything about computers from scratch.
+- I have done a project in hospital management system. This application is developed in java. Used eclipse ide.
 
 ---
 
@@ -19,6 +20,8 @@ Completed Diploma Degree in Information Technology
 [<img align="left" alt="Ojas-3 | Android" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" />][Android]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][GitHub]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
+
+[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.sv" />][C]
 <br>
 </br>
 
@@ -33,3 +36,4 @@ bhatojas3@gmail.com
 [Git]: https://git-scm.com/
 [SQL]: https://www.mysql.com/
 [android]: https://developer.android.com/studio
+[C]: https://www.cprogramming.com/
