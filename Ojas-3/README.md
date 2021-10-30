@@ -41,6 +41,17 @@ Completed Diploma Degree in Information Technology
 
 ---
 
+## Projects
+### Hospital Management System
+A login page of a Hospital application
+[hospital]
+<img align="left" alt="Hospital | Screenshot 1" width="150px" src="https://raw.githubusercontent.com/Ojas-3/Ojas-3/main/Ojas-3/Ojas-3/images/login.png" />
+
+A home page of a Hospital application
+[hospital]
+<img align="left" alt="Hospital | Screenshot 2" width="150px" src="https://raw.githubusercontent.com/Ojas-3/Ojas-3/main/Ojas-3/Ojas-3/images/home.png" />
+
+---
 
 ## 📫 You can reach me on
 Contact me:-
