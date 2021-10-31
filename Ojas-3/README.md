@@ -43,17 +43,22 @@ Completed Diploma Degree in Information Technology
 
 ## Projects
 ### Hospital Management System
-[Hospital Management System] (https://github.com/Ojas-3/Hospital-Management-System)
-#### A login page of a Hospital application
+[Hospital Management System] (https://github.com/Ojas-3/Hospital-Management-System)<br>
+
+#### Some Screenshots of the application
 
 <img align="left" alt="Hospital | Screenshot 1" width="150px" src="https://raw.githubusercontent.com/Ojas-3/Ojas-3/main/Ojas-3/Ojas-3/images/login.png" /><br><br><br><br />
-$~~~~~~~~~~~$
-#### A home page of a Hospital application\
 
 <br><img align="left" alt="Hospital | Screenshot 2" width="150px" src="https://raw.githubusercontent.com/Ojas-3/Ojas-3/main/Ojas-3/Ojas-3/images/home.png" /><br><br><br><br>
 
 ---
+##Hobbies
 
+-Learn new things in free time.
+-Hanging out with friends.
+-Playing indoor as well as outdoor games.
+
+---
 ## 📫 You can reach me on
 Contact me:-
 bhatojas3@gmail.com
