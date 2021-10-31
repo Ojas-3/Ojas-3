@@ -47,9 +47,9 @@ Completed Diploma Degree in Information Technology
 #### A login page of a Hospital application
 
 <img align="left" alt="Hospital | Screenshot 1" width="150px" src="https://raw.githubusercontent.com/Ojas-3/Ojas-3/main/Ojas-3/Ojas-3/images/login.png" /><br><br><br><br />
-#\
-#### A home page of a Hospital application\
 
+#### A home page of a Hospital application\
+#\
 <img align="left" alt="Hospital | Screenshot 2" width="150px" src="https://raw.githubusercontent.com/Ojas-3/Ojas-3/main/Ojas-3/Ojas-3/images/home.png" /><br><br><br><br>
 
 ---
