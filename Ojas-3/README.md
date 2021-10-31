@@ -16,7 +16,7 @@ Completed Diploma Degree in Information Technology
 ---
 
 ## Languages and Tools
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][SQL]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494git d/topics/sql/sql.png" />][SQL]
 
 [<img align="left" alt="android" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" />][android]
 
@@ -46,11 +46,11 @@ Completed Diploma Degree in Information Technology
 [Hospital Management System] (https://github.com/Ojas-3/Hospital-Management-System)
 #### A login page of a Hospital application
 
-<img align="left" alt="Hospital | Screenshot 1" width="150px" src="https://raw.githubusercontent.com/Ojas-3/Ojas-3/main/Ojas-3/Ojas-3/images/login.png" /><br><br><br><br>
+<img align="left" alt="Hospital | Screenshot 1" width="150px" src="https://raw.githubusercontent.com/Ojas-3/Ojas-3/main/Ojas-3/Ojas-3/images/login.png" /><br><br><br><br />
 
 #### A home page of a Hospital application
 
-<img align="left" alt="Hospital | Screenshot 2" width="150px" src="https://raw.githubusercontent.com/Ojas-3/Ojas-3/main/Ojas-3/Ojas-3/images/home.png" /><br><br><br><br>
+<img align="left" alt="Hospital | Screenshot 2" width="150px" src="https://raw.githubusercontent.com/Ojas-3/Ojas-3/main/Ojas-3/Ojas-3/images/home.png" /><br><br><br><br />
 
 ---
 
